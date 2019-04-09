@@ -1,0 +1,110 @@
+body {
+  background-color: #f0e9e9;
+  font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Roboto Slab', serif;
+
+}
+.main {
+  margin: 0;
+  width: 100%;
+  height: 80px;
+  padding: 0;
+}
+.pc {
+  height: 50px;
+  width: 50px;
+
+}
+.skills {
+
+border-radius: 50px;
+
+  height: 2500px;
+  width: 30%;
+  background-color: #85203b ;
+  float: left;
+}
+
+
+.intro {
+  margin : 0 0 500px 0;
+  border : none;
+  width: 70%;
+  height: 0.2px;
+  float: right;
+  text-align: center;
+
+}
+
+.ang {
+  font-size: 60px ;
+}
+
+hr {
+  width: 500px;
+  color: #be97dc;
+
+}
+
+.hr {
+  margin-left: 500px;
+  width: 10px;
+
+
+}
+
+.education {
+  margin : 0 0 0 500px;
+  border : none;
+  padding: 5px;
+}
+
+.gtext{
+  color: #5a3921;
+}
+
+.languages  {
+text-decoration:underline;
+}
+.cont  {
+text-decoration:underline;
+}
+.ski  {
+text-decoration:underline;
+}
+.link {
+  text-decoration: none;
+  color: #9951ff;
+  text-align: center;
+  }
+  .link:hover {
+    color: #634258;
+  }
+  a { display:inline;
+   }
+.edu  {
+text-decoration:underline;
+}
+.experience  {
+text-decoration:underline;
+}
+
+.certificates {
+  margin : 0 0 0 500px;
+  border : none;
+  padding: 5px;
+}
+
+.certi  {
+text-decoration:underline;
+}
+
+.interest {
+  margin : 0 0 0 500px;
+  border : none;
+  padding: 5px;
+}
+
+.int  {
+text-decoration:underline;
+}
